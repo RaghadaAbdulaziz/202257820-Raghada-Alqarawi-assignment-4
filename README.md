@@ -87,4 +87,7 @@ More details are provided in: `docs/ai-usage-report.md`
 The project is deployed using **GitHub Pages**, making it accessible through a public link.
 
 
+## Video Demo
+
+https://drive.google.com/file/d/1hzTyyBHfGaOTJ2pYcnlu5uBALTBhPhEc/view?usp=sharing
 
